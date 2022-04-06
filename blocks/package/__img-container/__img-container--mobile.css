@@ -1,0 +1,6 @@
+@media (max-width: 48em) {
+  .package__img-container--mobile {
+    height: 50rem;
+    width: 35rem;
+  }
+}

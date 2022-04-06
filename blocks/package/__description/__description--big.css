@@ -1,0 +1,12 @@
+.package__description--big {
+  width: 36.4rem;
+  height: 50rem;
+  padding: 4.6rem 2.1rem 3.5rem 4.3rem;
+  border-radius: 0rem 0.8rem 0.8rem 0rem;
+}
+@media (max-width: 48em) {
+  .package__description--big {
+    border-radius: 0 0 0.8rem 0.8rem;
+    width: 35rem;
+  }
+}

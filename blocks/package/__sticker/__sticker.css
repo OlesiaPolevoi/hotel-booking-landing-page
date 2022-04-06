@@ -1,0 +1,9 @@
+.package__sticker {
+  position: absolute;
+  top: 2.6rem;
+  left: 0;
+
+  color: #ffffff;
+  background-color: #ec1f46;
+  border-radius: 0rem 0.4rem 0.4rem 0rem;
+}

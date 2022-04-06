@@ -1,0 +1,16 @@
+.packages__wrap {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 35rem 35rem 35rem;
+  gap: 3rem;
+  margin-bottom: 7rem;
+}
+
+@media (max-width: 48em) {
+  .packages__wrap {
+    grid-template-columns: 1fr;
+    grid-template-rows: 2fr 1fr 1fr 1fr;
+    gap: 1rem;
+    justify-items: center;
+  }
+}

@@ -1,0 +1,8 @@
+@media (max-width: 48em) {
+  .package__image--mobile {
+    height: 50rem;
+    width: 35rem;
+    border-radius: 0.8rem 0.8rem 0 0;
+    object-fit: cover;
+  }
+}

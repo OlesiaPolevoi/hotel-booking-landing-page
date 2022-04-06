@@ -1,0 +1,9 @@
+.package__container {
+  display: flex;
+}
+
+@media (max-width: 48em) {
+  .package__container {
+    flex-direction: column;
+  }
+}
