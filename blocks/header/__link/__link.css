@@ -1,0 +1,13 @@
+.header__link {
+  text-transform: uppercase;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 1.4rem;
+  line-height: 129%;
+}
+
+@media (max-width: 48em) {
+  .header__link:not(:last-child) {
+    margin-bottom: 1rem;
+  }
+}
