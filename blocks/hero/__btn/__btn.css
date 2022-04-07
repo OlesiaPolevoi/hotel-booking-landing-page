@@ -1,0 +1,17 @@
+.hero__btn {
+  width: 29.5rem;
+  height: 4.5rem;
+  font-weight: 600;
+  font-size: 1.4rem;
+  line-height: 136%;
+  padding: 1.3rem 8rem 1.3rem 8rem;
+  background: #ec1f46;
+  border-radius: 0.4rem;
+}
+
+@media (max-width: 48em) {
+  .hero__btn {
+    margin-left: 25%;
+    display: inline-block;
+  }
+}

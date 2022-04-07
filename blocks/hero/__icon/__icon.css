@@ -1,0 +1,8 @@
+.hero__icon {
+  height: 1.4rem;
+  width: 1.4rem;
+  margin-right: 0.9rem;
+}
+.hero__booking .hero__icon {
+  margin-top: 0.5rem;
+}

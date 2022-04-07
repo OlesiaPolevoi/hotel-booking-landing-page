@@ -1,0 +1,13 @@
+.hero__wrap {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 3rem;
+  margin-bottom: 7rem;
+}
+
+@media (max-width: 48em) {
+  .hero__wrap {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,11 @@
+.hero__item:nth-of-type(1) {
+  width: 73rem;
+  grid-row: 1 / span 2;
+  width: 72.8rem;
+}
+
+@media (max-width: 48em) {
+  .hero__item {
+    max-width: 88%;
+  }
+}

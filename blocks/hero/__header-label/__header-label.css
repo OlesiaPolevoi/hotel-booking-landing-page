@@ -1,0 +1,12 @@
+.hero__header-label {
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 130%;
+
+  color: #ffffff;
+
+  background: #ec1f46;
+  border-radius: 3px;
+  padding: 0.3rem 0.9rem 0.4rem 0.9rem;
+  margin-bottom: 0.4rem;
+}
